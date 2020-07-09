@@ -1,0 +1,130 @@
+.scroll_top .fa, .main_menu li:hover >a, .main_menu  li a.active, .mobile-menu span,
+.overlay a:hover, .welcome_area h4 span, .typed_color,mark,
+.project-hover,.project-hover h2, .service_icon i, .testimonial_meta h4, p.counter_number,.contact_info i.fa,
+.social_icon a:hover, .copyright_text b, .Switcher__control i.fa, #about h2, #skill h2, .skill_text span {
+	color: transparent; 
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}
+
+.menu_border_style li.active:before, .menu_border_style li a.active:before {
+     border-color: #593dd5 transparent transparent #593dd5; 
+}
+.menu_border_style li.active:after, .menu_border_style li a.active:after {
+    border-color: transparent #593dd5 #593dd5 transparent;
+}
+.photo_shadow img {
+    border-image: linear-gradient(to right,#593dd5,#fc2b00);
+	border-image-slice:2;
+}
+.section_titel  h2 span, .welcome_area_inner h3 span{
+	color: transparent;
+	background-clip: text; 
+    -webkit-background-clip: text;
+	background-image: linear-gradient(to right,#593dd5,#fc2b00);
+	position:relative;
+}
+.section_titel h2 span:before , .section_titel h2 span:after,
+.welcome_area_inner h3 span:before , .welcome_area_inner h3 span:after, .skill::after,
+.single_skill_item .skill_divider, .testimonial_carousel .owl-dots button.owl-dot.active,
+.personal_info::after{
+	background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}
+a.cbtn.cbnt1{
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}
+a.cbtn.cbnt1:hover {
+    border-image: linear-gradient(to right,#593dd5,#fc2b00);
+     border-image-slice: 1;
+    background: transparent;
+    color: #ff2c57;
+}
+.about_links li a i{
+   width: 50px;
+  height: 50px;
+  border: double 1px transparent;
+  border-radius: 50px;
+  background-image: linear-gradient(#1F2430, #1F2430), radial-gradient(circle at top left, #593dd5,#fc2b00);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+
+.video_play_button:before, .video_play_button:after{
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}
+ #skill .tab_list li, #portfolio .project_filter li, .skill_box_wrap{
+    border-image: linear-gradient(to right,#593dd5,#fc2b00);
+    border-image-slice: 1;
+}
+.single_skill_item .skill_divider::before, .single_skill_item .skill_divider::after, 
+.testimonial_meta img {
+	border: 2px solid #ff2c57;
+}
+.about_links li a i:hover, #portfolio .project_filter li:hover,#skill .tab_list li:hover{
+    color: #fff;
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+    border-image-slice: 1;
+    
+}
+#skill .tab_list li.active, #portfolio .project_filter li.active{
+   background-image: linear-gradient(to right,#593dd5,#fc2b00)
+}
+.single_skill_item .skill_divider::before, .single_skill_item .skill_divider::after, 
+.testimonial_meta img {
+	border: 2px solid transparent;
+	background: linear-gradient(45deg,rgba(252,43,0,1) 0,rgba(89,61,213,1) 100%);
+}
+.contact_form input[type="submit"], input[type="submit"],
+input[type="submit"],
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="url"],textarea{
+	
+	border-image: linear-gradient(to right,#593dd5,#fc2b00);
+	border-image-slice: 1;
+}
+.loading:before, .loading:after{
+	border: 3px solid transparent;
+	background-clip: border-color;
+	-webkit-background-clip: border-color;
+	background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}
+
+.project-filter li.active {
+	border-image: linear-gradient(to right,#593dd5,#fc2b00);
+	border-image-slice:1; 
+}
+.barfiller .tip:after{
+   border-color: #fc2b00 transparent;
+}
+.single-project-item::before {
+    border-image: linear-gradient(to right,#593dd5,#fc2b00);
+	border-image-slice:1;
+}
+.single-project-item::after {
+    border-image: linear-gradient(to right,#593dd5,#fc2b00);
+	border-image-slice:1; 
+}
+
+input[type="submit"]:hover {
+     
+	 background-image: linear-gradient(to right,#593dd5,#fc2b00); 
+}
+
+.tabs li.active a {
+     background-image: linear-gradient(to right,#593dd5,#fc2b00);
+     -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+a.tab_profile.active i {
+    animation: bounce 2s infinite;
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.barfiller .fill{
+    background-image: linear-gradient(to right,#593dd5,#fc2b00);
+}

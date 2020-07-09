@@ -1,0 +1,94 @@
+.scroll_top .fa, .section_titel h2, .main_menu li:hover >a, .main_menu  li a.active, .mobile-menu span,
+.overlay a:hover, .welcome_area_inner h3, .welcome_area h4 span, .typed_color, .tabs li.active a,
+.project-hover, .service_icon i, .testimonial_meta h4, p.counter_number,.contact_info i.fa,
+.social_icon a:hover, .copyright_text b, .Switcher__control i.fa,mark, #about h2, #skill h2 {
+	color:#41BEF4;
+	
+}
+.menu_border_style li.active:before, .menu_border_style li a.active:before {
+     border-color: #41BEF4 transparent transparent #41BEF4; 
+}
+.menu_border_style li.active:after, .menu_border_style li a.active:after {
+    border-color: transparent #41BEF4 #41BEF4 transparent;
+}
+.photo_shadow img {
+    border: 2px solid #41BEF4;
+}
+.section_titel h2 span:before ,.section_titel h2 span:after,
+.welcome_area_inner h3 span:before , .welcome_area_inner h3 span:after, .skill::after,
+.single_skill_item .skill_divider, .testimonial_carousel .owl-dots button.owl-dot.active,
+.personal_info::after{
+	background-color: #41BEF4;
+}
+
+a.cbtn.cbnt1{
+    background-color:#41BEF4;
+    border: 1px solid transparent;
+}
+a.cbtn.cbnt1:hover {
+    border-color: #41BEF4;
+    background: transparent;
+    color: #41BEF4;
+}
+.video_play_button:before, .video_play_button:after{
+    background:#41BEF4;
+}
+.about_links li a i, #skill .tab_list li, #portfolio .project_filter li, .skill_box_wrap{
+    border: 1px solid #41BEF4;  
+}
+.single_skill_item .skill_divider::before, .single_skill_item .skill_divider::after, 
+.testimonial_meta img {
+    border: 2px solid #41BEF4;
+}
+.about_links li a i:hover, #portfolio .project_filter li:hover,#skill .tab_list li:hover{
+    color: #fff;
+    background: #41BEF4;
+    border-color: #41BEF4;
+    
+}
+#skill .tab_list li.active, #portfolio .project_filter li.active{
+    background-color:#41BEF4;
+}
+.skill_text span{
+    color: #41BEF4;
+}
+
+.single_skill_item .skill_divider::before, .single_skill_item .skill_divider::after, 
+.testimonial_meta img {
+	border: 2px solid #41BEF4;
+}
+.contact_form input[type="submit"], input[type="submit"],
+input[type="submit"],
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="url"],textarea{
+	border: 1px solid #41BEF4;  
+}
+.loading:before, .loading:after{
+	border: 3px solid #41BEF4;
+}
+
+.project-filter li.active {
+      border-color: #41BEF4;
+}
+.barfiller .tip:after{
+    border-color: #41BEF4 transparent;
+}
+.single-project-item::before {
+    border-right: 2px solid #41BEF4;
+    border-top: 2px solid #41BEF4;
+}
+.single-project-item::after {
+    border-left: 2px solid #41BEF4;
+    border-bottom: 2px solid #41BEF4; 
+}
+
+input[type="submit"]:hover {
+    background: #41BEF4;
+    border-color: #41BEF4;
+}
+.barfiller .fill{
+    background:#41BEF4;
+}

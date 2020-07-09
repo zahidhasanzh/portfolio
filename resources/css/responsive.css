@@ -1,0 +1,89 @@
+/*Laptop 1200px*/
+@media only screen and (min-width: 1200px) and (max-width: 1500px) {
+}
+
+/*Normal Desktop 1200px*/
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    #skill .tab_list li,
+    #portfolio .project_filter li {
+        padding: 8px;
+        margin: 2px;
+    }
+    #progress {
+        padding-top: 20px;
+    }
+    .colored_box {
+        padding-top: 90px;
+    }
+}
+
+/*Tablet layout 768px*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+/*Mobile & Tablet layout*/
+@media only screen and (max-width: 991px) {
+    .mobile-menu span {
+        display: block;
+    }
+    .main_menu {
+        display: none;
+    }
+    .main_menu li a {
+        padding: 25px 20px;
+    }
+    .section_titel h2 {
+        font-size: 25px;
+    }
+    .about_right h2 {
+        font-size: 28px;
+    }
+    .testiomnial_content {
+        font-size: 17px;
+    }
+    .single_counter_box p {
+        letter-spacing: 0;
+    }
+    .social_icon a {
+        margin-bottom: 15px;
+    }
+    #about .about_img {
+        text-align: center;
+    }
+}
+
+/* Wide Mobile layout 480px*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+/*Mobile layout*/
+@media only screen and (max-width: 767px) {
+    .mobile-menu span {
+        font-size: 35px;
+        margin-top: -65px;
+    }
+
+    .menu_area {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .welcome_area .type_text {
+        font-size: 28px;
+    }
+    .tab-content {
+        width: 280px;
+    }
+    .section_titel h2 {
+        font-size: 24px;
+    }
+    #skill .tab_list li,
+    #portfolio .project_filter li {
+        padding: 8px;
+        margin: 5px;
+    }
+}
+@media only screen and (max-width: 480px) {
+}
+
+@media only screen and (max-width: 479px) {
+}
